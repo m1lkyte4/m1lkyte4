@@ -1,6 +1,6 @@
 <h1 align="center">hi there 👋, its kas </h1>
 <p align="center">
-  Computer Science @ Universiti Teknologi Petronas
+  cargo cult programmer | Computer Science @ UTP
 </p>
 
 ---

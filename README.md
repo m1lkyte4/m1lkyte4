@@ -1,4 +1,4 @@
-<h1 align="center">hi, welcome to my profile </h1>
+<h1 align="center">hi, welcome to my github </h1>
 <p align="center">
   cargo cult programmer | Computer Science @ UTP
 </p>
